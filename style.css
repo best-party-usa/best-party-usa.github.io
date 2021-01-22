@@ -1,0 +1,13 @@
+.list
+{
+    text-align: justify;
+    padding: 1%;
+    font-size: 0.95em;
+    margin: 15px;
+    max-width: 994px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: arial;
+    font-weight: 500;
+    line-height: 1.5em;
+}    
